@@ -1,0 +1,15 @@
+2025-03-02 16:52:11,001 - calculator - INFO - Starting Josh's Calculator App in development environment
+2025-03-02 16:52:11,001 - calculator - INFO - Calculation requested: 5 add 3
+2025-03-02 16:52:11,002 - calculator - DEBUG - Calculation result: 8.0
+2025-03-02 16:52:11,002 - calculator - INFO - Calculation requested: 1 divide 0
+2025-03-02 16:52:11,002 - calculator - ERROR - Division by zero: 1/0
+2025-03-02 16:52:11,002 - calculator - DEBUG - Initializing Calculator REPL
+2025-03-02 16:52:11,005 - calculator - INFO - Loaded plugins: ['divide', 'add', 'multiply', 'subtract']
+2025-03-02 16:52:11,005 - calculator - INFO - Starting REPL
+2025-03-02 16:52:11,005 - calculator - DEBUG - Showing menu
+2025-03-02 16:52:38,208 - calculator - DEBUG - User entered command: add
+2025-03-02 16:52:42,172 - calculator - DEBUG - Operation: add 1.0 2.0
+2025-03-02 16:52:42,172 - calculator - INFO - Calculation result: add(1.0,2.0) = 3.0
+2025-03-02 16:53:27,436 - calculator - DEBUG - User entered command: exit
+2025-03-02 16:53:27,436 - calculator - INFO - Exiting calculator
+2025-03-02 16:53:27,436 - calculator - INFO - Calculator program ended
