@@ -10,4 +10,4 @@ For this assignment I want you to watch the following two videos and create your
 ## Screenshots
 
 1.  Put the screenshot of your image in your Docker account here.
-![Docker Hub Screenshot](C:\Users\Josh\OneDrive\Desktop\screenshot\dockerhub.png)
+![Docker Hub Screenshot](dockerhub.png)
