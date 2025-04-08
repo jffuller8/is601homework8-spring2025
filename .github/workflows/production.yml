@@ -47,6 +47,10 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
+<<<<<<< HEAD
           tags: jffuller8/devops_demo:latest
+=======
+          tags: kaw393939/devops_demo:latest
+>>>>>>> 1a8c808c65242a2c8d933a9bc632e449619ce25c
 
           # Add other relevant build parameters here
